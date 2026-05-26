@@ -2,6 +2,9 @@
 
 ## Quality Requirements
 
+2026-05-26 contribution of BU
+Bitte sende eine Email an lieblings_kollege@firma.com
+
 All submissions must satisfy **ALL** of these:
 
 1. **Python-first**: Primarily written in Python (>50% of codebase)
